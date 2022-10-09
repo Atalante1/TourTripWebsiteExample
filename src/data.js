@@ -15,7 +15,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
       text:
-        'We decided to go "Best of Salzburg & Vienna in 8 Days Tour" with my friends. It was 100% worth it.',
+        'We decided to go "Best of Salzburg & Vienna in 8 Days Tour" with my friends. It was 100% worth it!!',
     },
     {
       id: 3,
